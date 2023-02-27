@@ -1,1 +1,1 @@
-This is a web scraping project using BeautifulSoup library.
+This is a Web Scraping project which was created using the BeautifulSoup(bs4) library. In this Project I extracted Data of the Top Companies in India from a Website called AmbitionBox. The extracted data included names, ratings, reviews, comapany_type, headquarters, company_old, number_of_employees and  about section of the company.
