@@ -11,8 +11,10 @@
  Link: (https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles)
 
 ## 4. Usage Instructions: 
-After Clone the Project you can run the app.py file using the command '''python
-stramlit run app.py'''
+After Clone the Project you can run the app.py file using the command 
+'''python
+streamlit run app.py
+'''
 
 ## 5. Contact Information: 
 Provide your contact information (e.g., email or GitHub username) in case users have questions or feedback about the project.
