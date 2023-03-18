@@ -1,7 +1,5 @@
 ## 1. Project Overview: 
- The goal of this project is to perform data analysis on the UN country statistics dataset, which contains information about various countries around the world, including population, GDP, life expectancy, and more. The dataset is publicly available and has been collected and maintained by the United Nations.
-
-The primary objective of this project is to use data analysis techniques to gain insights into different aspects of the countries included in the dataset.
+ The goal of this project is to perform data analysis on the UN country statistics dataset, which contains information about various countries around the world, including population, GDP, life expectancy, and more. The dataset is publicly available and has been collected and maintained by the United Nations.The primary objective of this project is to use data analysis techniques to gain insights into different aspects of the countries included in the dataset.
 
 ## 2. Installation and Setup: 
  Provide detailed instructions on how to install and set up the project on a local machine. This might include instructions for installing Python, setting up a virtual environment, installing required packages, and running the app.
