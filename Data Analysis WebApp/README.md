@@ -11,7 +11,8 @@
  Link: (https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles)
 
 ## 4. Usage Instructions: 
-Provide instructions on how to use the app, including how to navigate the interface, input data, and interpret the results. If there are any special requirements or limitations, be sure to mention them here.
+After Clone the Project you can run the app.py file using the command '''python
+stramlit run app.py'''
 
 ## 5. Contact Information: 
 Provide your contact information (e.g., email or GitHub username) in case users have questions or feedback about the project.
