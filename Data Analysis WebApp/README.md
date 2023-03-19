@@ -15,7 +15,7 @@ streamlit run app.py
 ```
 
 ## 5. Contact Information: 
-If you have any questions or feedback about this data analysis project, you can contact me at my email: [fernandescyrus4@gmail.com] or my LinkedIn [https://www.linkedin.com/in/cyrus-fernandes-5996aa23a/] . You can also find more information about other projects that I have worked on by visiting my website [Still in Development].
+If you have any questions or feedback about this data analysis project, you can contact me at my email: (fernandescyrus4@gmail.com) or my LinkedIn (https://www.linkedin.com/in/cyrus-fernandes-5996aa23a/) . You can also find more information about other projects that I have worked on by visiting my website (Still in Development).
 
 Additionally, if you discover any issues or errors in the project code or data, please feel free to report them by opening an issue on the project's GitHub repository. You can do this by navigating to the repository's issue tracker and clicking on the "New Issue" button.
 
